@@ -1,0 +1,6 @@
+[requires]
+PonyGen@0.2@hardliner66/testing
+Hello/0.1@hardliner66/testing
+
+[generators]
+Pony
